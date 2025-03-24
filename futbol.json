@@ -1,0 +1,94 @@
+{
+  "equipos": [
+    {
+      "nombre": "FC Barcelona",
+      "pais": "España",
+      "liga": "LaLiga",
+      "fundacion": 1899,
+      "estadio": "Spotify Camp Nou",
+      "titulos": {
+        "liga": 27,
+        "champions": 5,
+        "copas": 31
+      },
+      "entrenador": "Xavi Hernández",
+      "jugadores": [
+        {"nombre": "Robert Lewandowski", "posicion": "Delantero", "goles": 25},
+        {"nombre": "Pedri", "posicion": "Centrocampista", "goles": 5},
+        {"nombre": "Ter Stegen", "posicion": "Portero", "goles": 0}
+      ]
+    },
+    {
+      "nombre": "Real Madrid",
+      "pais": "España",
+      "liga": "LaLiga",
+      "fundacion": 1902,
+      "estadio": "Santiago Bernabéu",
+      "titulos": {
+        "liga": 35,
+        "champions": 14,
+        "copas": 20
+      },
+      "entrenador": "Carlo Ancelotti",
+      "jugadores": [
+        {"nombre": "Vinícius Jr", "posicion": "Delantero", "goles": 18},
+        {"nombre": "Jude Bellingham", "posicion": "Centrocampista", "goles": 15},
+        {"nombre": "Thibaut Courtois", "posicion": "Portero", "goles": 0}
+      ]
+    },
+    {
+      "nombre": "Manchester City",
+      "pais": "Inglaterra",
+      "liga": "Premier League",
+      "fundacion": 1880,
+      "estadio": "Etihad Stadium",
+      "titulos": {
+        "liga": 9,
+        "champions": 1,
+        "copas": 6
+      },
+      "entrenador": "Pep Guardiola",
+      "jugadores": [
+        {"nombre": "Erling Haaland", "posicion": "Delantero", "goles": 30},
+        {"nombre": "Kevin De Bruyne", "posicion": "Centrocampista", "goles": 8},
+        {"nombre": "Ederson", "posicion": "Portero", "goles": 0}
+      ]
+    },
+    {
+      "nombre": "Bayern Múnich",
+      "pais": "Alemania",
+      "liga": "Bundesliga",
+      "fundacion": 1900,
+      "estadio": "Allianz Arena",
+      "titulos": {
+        "liga": 33,
+        "champions": 6,
+        "copas": 20
+      },
+      "entrenador": "Thomas Tuchel",
+      "jugadores": [
+        {"nombre": "Harry Kane", "posicion": "Delantero", "goles": 28},
+        {"nombre": "Joshua Kimmich", "posicion": "Centrocampista", "goles": 6},
+        {"nombre": "Manuel Neuer", "posicion": "Portero", "goles": 0}
+      ]
+    },
+    {
+      "nombre": "Paris Saint-Germain",
+      "pais": "Francia",
+      "liga": "Ligue 1",
+      "fundacion": 1970,
+      "estadio": "Parc des Princes",
+      "titulos": {
+        "liga": 11,
+        "champions": 0,
+        "copas": 14
+      },
+      "entrenador": "Luis Enrique",
+      "jugadores": [
+        {"nombre": "Kylian Mbappé", "posicion": "Delantero", "goles": 32},
+        {"nombre": "Marco Verratti", "posicion": "Centrocampista", "goles": 3},
+        {"nombre": "Gianluigi Donnarumma", "posicion": "Portero", "goles": 0}
+      ]
+    }
+  ]
+}
